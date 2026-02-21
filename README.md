@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi 👋 I'm [Your Name]
 
-<!--
-**Minnie-Ngugi-dev/Minnie-Ngugi-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer (MERN | Laravel | Vue)
+📱 Web & Mobile Developer
+📍 Kenya
 
-Here are some ideas to get you started:
+🛠 Tech Stack
+- JavaScript, PHP, SQL
+- React, Node.js, Laravel, Vue.js
+- MySQL, PostgreSQL, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects
+- E-commerce Platform
+- School Management System
+- Portfolio Website
+
+📫 Contact
+- LinkedIn: your-link
+- Email: your-email
